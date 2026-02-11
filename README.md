@@ -1,36 +1,34 @@
 # Student Management System
 
-## Introduction
-This project is a Student Management System designed to help educational institutions manage student data efficiently.
+## Project Documentation
 
-## Features
-- Student Enrollment
-- Course Management
-- Exam Management
-- Grade Management
+This project is designed to manage student data effectively. It provides features such as:
 
-## Installation
+- **Enrollment:** Enroll new students and manage their information.
+- **Course Management:** Add and manage courses for students.
+- **Grades Tracking:** Record and track student grades throughout their courses.
+- **Reports:** Generate reports for individual students or courses.
+
+## Setup Instructions
+
 1. Clone the repository:
-   ```
+   ```bash
    git clone https://github.com/Sanoivan250/student-management-system.git
-   ```
-2. Navigate to the project directory:
-   ```
    cd student-management-system
    ```
-3. Install the required dependencies:
-   ```
+2. Install dependencies:
+   ```bash
    npm install
    ```
-
-## Usage
-To start the application, run:
-```bash
-npm start
-```
+3. Start the application:
+   ```bash
+   npm start
+   ```
 
 ## Contributing
-If you'd like to contribute, please fork the repository and create a pull request.
+
+Contributions are welcome! Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 ## License
+
 This project is licensed under the MIT License.
